@@ -11,7 +11,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='|', intents=intents)
 bot.remove_command('help')
 client = discord.Client(intents=intents)
-TOKEN = 'MTA0OTY0NTY0MTQwMTM3Mjc0NA.Gou-mj.z6l8ap3m0vJ7Sz1kfAnQ0eWbVQbP5RiLfYz23Q'
+TOKEN = "BOT'S TOKEN"
 a = ["Я - бот, ты - бот)", "Easy peasy", "Apelsin4ik - мой создатель", "Apelsin4ik? bIades!", "<@748495964964388906> Струптер когда ВВ?", "WrendliWibe?", "WW3???", "Легенда в деле", "Vivarko - ✨ чел ты крутой ✨ ", "http://qrcoder.ru/code/?https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ%26ab_channel%3DRickAstley&3&0"]
 d0 = date(2022, 6, 15)
 today = date.today()
